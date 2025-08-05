@@ -1,4 +1,4 @@
-import logo from "ideas.png";
+// import logo from "";
 import classes from "../styles/Nav.module.css";
 import Account from "./Account";
 import {Link} from "react-router-dom";
@@ -11,7 +11,7 @@ const Nav = () => {
       <ul>
         <li>
           <Link to="/" className={classes.brand}>
-            <img src={logo} alt="Quiz-application" />
+            <img src= "ideas.png" alt="Quiz-application" />
             <h3>Quiz-application</h3>
           </Link>
         </li>
