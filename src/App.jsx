@@ -18,6 +18,7 @@ const App = () => {
         <Route path="/Result" element={<Result />} />
       </Routes>
     </Layout>
+    
   );
 };
 
