@@ -1,4 +1,4 @@
-import logo from "../assets/images/logo-bg.png";
+import logo from "../assets/images/ideas.png";
 import classes from "../styles/Nav.module.css";
 import Account from "./Account";
 import {Link} from "react-router-dom";
